@@ -29,4 +29,4 @@ This project uses SIPRI arms transfer data to analyse defence import dependency 
 ## Data Source
 - SIPRI Arms Transfers Database (https://sipri.org/databases/armstransfers)
 
-![Arms Import SIPRI](eu_arms_import_sipri)
+![Arms Import SIPRI](eu_arms_import_sipri.jpg)
